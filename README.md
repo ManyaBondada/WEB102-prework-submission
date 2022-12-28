@@ -18,8 +18,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://drive.google.com/file/d/1Lg5_qGcoK9nB7KmO4WURT_HfHoCJpH1z/view?usp=share_link' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://drive.google.com/file/d/1Lg5_qGcoK9nB7KmO4WURT_HfHoCJpH1z/view?usp=share_link
 
 Video Walkthrough GIF created with LiceCap (https://licecap.en.softonic.com/) for Windows
 
