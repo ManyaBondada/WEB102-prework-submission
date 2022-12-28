@@ -24,7 +24,7 @@ Video Walkthrough GIF created with LiceCap (https://licecap.en.softonic.com/) fo
 
 ## Notes
 
-This prework project allowed me to refresh my knowledge of HTML/CSS and gain more experience with JavaScript features such as string literals, functions, filter, map, reduce, destructuring and spread operators, logic evaluation, as well as using JavaScript to manipulate HTML elements.
+This prework project allowed me to refresh my knowledge of HTML/CSS and gain more experience with JavaScript features such as template literals, functions, filter, map, reduce, destructuring and spread operators, logic evaluation, as well as using JavaScript to manipulate HTML elements.
 
 The main challenge I faced was implementing the .reduce function. By searching up tutorials about its syntax, I was able to understand how to apply this concept to the website and think about different situations where using this function would make the code more efficient and readable.
 
